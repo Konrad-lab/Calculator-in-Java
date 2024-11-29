@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Koni\Desktop\PROG\CalcJAVA\Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Koni\Desktop\PROG\CalcJAVA\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.1.12-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Users\Koni\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Koni\AppData\Local\Programs\Python\Python312\;C:\Users\Koni\AppData\Local\Programs\Python\Launcher\;C:\Users\Koni\AppData\Local\Microsoft\WindowsApps;C:\Users\Koni\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Koni\AppData\Roaming\npm;C:\Users\Koni\AppData\Local\Microsoft\WindowsApps;C:\Users\Koni\AppData\Local\Programs\Python\Python312;C:\Program Files\Git;;C:\Program Files\Eclipse Adoptium\jdk-21.0.1.12-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.1.12-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Users\Koni\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Koni\AppData\Local\Programs\Python\Python312\;C:\Users\Koni\AppData\Local\Programs\Python\Launcher\;C:\Users\Koni\AppData\Local\Microsoft\WindowsApps;C:\Users\Koni\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Koni\AppData\Roaming\npm;C:\Users\Koni\AppData\Local\Microsoft\WindowsApps;C:\Users\Koni\AppData\Local\Programs\Python\Python312;C:\Program Files\Git;;C:\Program Files\Eclipse Adoptium\jdk-21.0.1.12-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.1.12-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.1.12-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Koni\Desktop\PROG\CalcJAVA\Calculator.exe"
+Args length:	57/32768 chars
+Exit code:	0
