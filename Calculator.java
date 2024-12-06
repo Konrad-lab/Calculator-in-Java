@@ -10,7 +10,7 @@ public class Calculator extends JFrame {
     private boolean start = true;
     private StringBuilder currentExpression = new StringBuilder();
     
-    // Define colors for futuristic theme
+    // Define colors for the theme
     private final Color BACKGROUND_COLOR = new Color(28, 28, 30);
     private final Color DISPLAY_COLOR = new Color(44, 44, 46);
     private final Color TEXT_COLOR = new Color(0, 255, 255);  // Cyan
@@ -21,7 +21,7 @@ public class Calculator extends JFrame {
     private final Color SYNTAX_BACKGROUND = new Color(35, 35, 37);
 
     public Calculator() {
-        // Set up the display with futuristic styling
+        // Set up the display with styling
         display = new JTextField("0");
         display.setEditable(false);
         display.setHorizontalAlignment(JTextField.RIGHT);
@@ -30,7 +30,7 @@ public class Calculator extends JFrame {
         display.setForeground(TEXT_COLOR);
         display.setBorder(BorderFactory.createEmptyBorder(20, 20, 20, 20));
 
-        // Set up syntax display
+        // Set up the display (for syntax)
         syntaxDisplay = new JTextField("");
         syntaxDisplay.setEditable(false);
         syntaxDisplay.setFont(new Font("Consolas", Font.PLAIN, 16));
@@ -39,13 +39,13 @@ public class Calculator extends JFrame {
         syntaxDisplay.setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10));
         syntaxDisplay.setHorizontalAlignment(JTextField.LEFT);
         
-        // Create button panel with spacing
+        // Create button panel (with spacing)
         JPanel buttonPanel = new JPanel();
         buttonPanel.setLayout(new GridLayout(4, 4, 10, 10));
         buttonPanel.setBackground(BACKGROUND_COLOR);
         buttonPanel.setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10));
 
-        // Add buttons with futuristic styling
+        // Add buttons (with styling)
         String[] buttonLabels = {
             "7", "8", "9", "/",
             "4", "5", "6", "*",
@@ -69,7 +69,7 @@ public class Calculator extends JFrame {
             }
         }
 
-        // Add clear button with special styling
+        // Add clear button (with styling)
         JButton clearButton = createStyledButton("C");
         styleClearButton(clearButton);
         clearButton.addActionListener(e -> {
